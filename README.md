@@ -81,7 +81,27 @@
 
 ### mysqldump
 
-mysqldump -u root -h localhost -p database > db.sql
+```mysqldump -u root -h localhost -p database > db.sql```
+
+
+### Рекурсивный CHMOD
+
+Файлы: 
+
+```find . -type f -exec chmod 755 {} \;```
+
+Папки: 
+
+```find . -type d -exec chmod 755 {} \;```
+
+Или: 
+
+```chmod -R 755 ./*```
+
+
+
+
+
 
 
 
