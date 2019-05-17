@@ -79,6 +79,13 @@
 
 Источник - https://webhamster.ru/mytetrashare/index/mtb0/1369989626iqfs7i9vi5
 
+### mysqldump
+
+mysqldump -u root -h localhost -p database > db.sql
+
+
+
+
 
 
 
