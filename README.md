@@ -160,7 +160,13 @@ show status;
 
 ```git clone url другой/каталог```
 
+### Добавить в репозиторий все файлы директории с поддиректориями
 
+```
+git add --all
+git commit -am "<commit message>"
+git push
+```
 
 
 
