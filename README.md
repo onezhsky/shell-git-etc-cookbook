@@ -50,3 +50,19 @@
 ```unzip www.zip```
 
 
+### Работа с tar.gz
+
+Архивация: 
+
+```tar -cvzf www.tar.gz .```
+
+Разархивация: 
+
+```tar -xvzf www.tar.gz```
+
+Разархивация
+
+```tar: tar -xvf file.tar```
+
+
+
