@@ -15,3 +15,13 @@
 В другую указанную папку:
 
 ```git clone url другой/каталог```
+
+## Shell 
+
+Шпаргалка tproger - https://eax.me/git-commands/
+
+**Скачать сайт с помощью wget**
+
+```wget --mirror --convert-links --page-requisites --no-parent -P . https://example-domain.com```
+
+Источник с пояснениями и другими полезными командами - https://andreyex.ru/ubuntu/10-primerov-komandy-wget/
