@@ -32,16 +32,21 @@
 Из комментов отсюда: - https://toster.ru/q/202277
 
 ### Работа с zip
+
 Архивация: 
+
 ```zip -r www.zip . ```
 
 Архивация с исключением определенных расширений: 
+
 ```zip -x *.jpg *.JPG *.zip -r www.zip .```
 
 Архивация и исключеним поддиректорий:
+
 ```zip -r myarchive.zip dir1 -x "dir1/ignoreDir1/*" "dir1/ignoreDir2/*"```
 
 Разархивация: 
+
 ```unzip www.zip```
 
 
