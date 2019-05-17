@@ -6,7 +6,7 @@
 
 Шпаргалка по git - https://eax.me/git-commands/
 
-**git clone**
+### git clone
 
 В текущую папку:
 
@@ -20,7 +20,7 @@
 
 Шпаргалка tproger - https://eax.me/git-commands/
 
-**Скачать сайт с помощью wget**
+### Скачать сайт с помощью wget
 
 ```wget --mirror --convert-links --page-requisites --no-parent -P . https://example-domain.com```
 
