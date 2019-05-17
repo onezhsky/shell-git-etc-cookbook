@@ -4,12 +4,12 @@
 
 ## Git
 
-### git clone
+**git clone**
 
 В текущую папку:
 
-git clone url .
+```git clone url .```
 
 В другую указанную папку:
 
-git clone url другой/каталог
+```git clone url другой/каталог```
