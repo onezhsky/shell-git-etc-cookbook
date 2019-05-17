@@ -4,6 +4,8 @@
 
 ## Git
 
+Шпаргалка по git - https://eax.me/git-commands/
+
 **git clone**
 
 В текущую папку:
