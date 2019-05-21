@@ -4,7 +4,7 @@
 
 ## Shell 
 
-Шпаргалка tproger - https://eax.me/git-commands/
+Шпаргалка tproger - https://tproger.ru/translations/bash-cheatsheet/
 
 ### Скачать сайт с помощью wget
 
